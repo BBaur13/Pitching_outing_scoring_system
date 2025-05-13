@@ -1,2 +1,4 @@
 # Pitching_outing_scoring_system
-Uses a mix of process and outcome based metrics to score outings. Allows for a leaderboard to rank cumulative scores among players.
+This project was created to help create a quanitative analysis of the outings of college pitchers. Our program at the University of Sioux Falls wanted to place an emphasis on the process based outcomes. This includes soft contact, attacking the strike zone, and being effcient with your pitches.  This file takes in a variety of metrics and computes a score for the outing. We use this scoring process to rank pitchers during our fall scrimmages which includes a weekly leaderboard.
+
+  One of the advantages of this system is it divides the score by batters faced. This allows a somewhat even playing field for pitchers who only throw an inning as opposed to someone you as a coach may be stretching out to throw multiple innings. The second is that it allows all of the information that may usually be stored in the form of paper charts, in a easy to access file.
